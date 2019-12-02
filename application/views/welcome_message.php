@@ -4,7 +4,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
+<<<<<<< HEAD
 	<title>Welcome to CodeIgniter</title>
+=======
+	<title>Welcome to Bitas</title>
+>>>>>>> master
 
 	<style type="text/css">
 
